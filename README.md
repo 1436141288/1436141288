@@ -4,7 +4,7 @@
 - 📫 reach me by visit my [site](https://www.lsylsh.top)
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.lsylh.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp; 
+  <a href="https://www.lsylh.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp; 
  <img src="https://visitor-badge.glitch.me/badge?page_id=YYTtheBest&left_color=blue&right_color=red">
   
 <!--   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -15,9 +15,7 @@
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
   #  🙋 Hello 
 <p>✍️&nbsp;&nbsp;你好呀，我是叶雨桐! 目前在云南某不知名的专科在读嗷，虽然梦想不是当一个很强大的程序员，但是还是想在这条大路上多多努力呀:gift_heart:</p> 
-  <p>浅浅的祝福大家可以活成自己想要的样子，别被任何人或事约束，记住你是为你自己活的</p>
-  
-  
+<p>浅浅的祝福大家可以活成自己想要的样子，别被任何人或事约束，记住你是为你自己活的</p>
   
 💪 正在学习: 
 
